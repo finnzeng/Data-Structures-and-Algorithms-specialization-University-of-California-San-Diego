@@ -1,4 +1,5 @@
-# Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego
+# Data Structures and Algorithms specialization offered by University of California San Diego and National Research University Higher School of Economics  
+This specialization content can be found [here](https://www.coursera.org/specializations/data-structures-algorithms) on coursera
 <p align="center">
 <a target="_blank">
         <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png?auto=format%2Ccompress&dpr=2.625" 
