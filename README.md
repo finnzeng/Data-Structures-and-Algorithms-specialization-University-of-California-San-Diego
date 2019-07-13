@@ -5,7 +5,8 @@
 alt="https://www.coursera.org/specializations/data-structures-algorithms" width="250" height="250" border="10" align="center"/></a>
 </p>
 
-## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)
+## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)  
+This course content can be found [here](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms) on coursera
 >### Week 1: Decomposition of Graphs 1
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week1_decomposition1)   
 
