@@ -5,28 +5,28 @@
 alt="https://www.coursera.org/specializations/data-structures-algorithms" width="250" height="250" border="10" align="center"/></a>
 </p>
 
-## [Algorithms on Graphs course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)
->### Week 1 Decomposition of Graphs 1
+## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)
+>### Week 1: Decomposition of Graphs 1
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week1_decomposition1)   
 
 >>`Study Notes`  
 >>>[Graph basics](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/1.%20Graph%20Basics.md)  
 >>>[Exploring undirected graphs](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/2.%20Exploring%20Undirected%20Graphs.md)
 
->### Week 2 Decomposition of Graphs 2
+>### Week 2: Decomposition of Graphs 2
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week2_decomposition2)  
 
 >>`Study Notes`  
 >>>[Directed Graphs](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/Directed%20Graphs.md)
 
->### Week 3 Paths in Graphs 1
+>### Week 3: Paths in Graphs 1
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week3_paths1)  
 
 >>`Study Notes`  
 >>>[Most Direct Route](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/Most%20Direct%20Route.md)  
 
 
->### Week 4 Paths in Graphs 2
+>### Week 4: Paths in Graphs 2
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week4_paths2)  
 
 >>`Study Notes`  
@@ -34,7 +34,7 @@ alt="https://www.coursera.org/specializations/data-structures-algorithms" width=
 >>>[Currency Exchange](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/2.%20Currency%20Exchange.md)
 
 
->### Week 5 Minimum Spanning Trees
+>### Week 5: Minimum Spanning Trees
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week5_mst)  
 
 >>`Study Notes`  
