@@ -44,3 +44,11 @@ This course content can be found [here](https://www.coursera.org/learn/algorithm
 >>>[Minimum Spanning Trees](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/Minimum%20Spanning%20Trees.md)
 
 thanks for the studynotes [akueisara](https://github.com/akueisara/algograph)
+
+Todo  
+Data structures   
+>week1   5)max_sliding_window  
+>week4  4)substring inequality
+To add   
+Data Structures
+>week5 and 6
