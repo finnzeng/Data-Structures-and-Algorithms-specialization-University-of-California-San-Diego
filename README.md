@@ -49,6 +49,3 @@ Todo
 Data structures   
 >week1   5)max_sliding_window  
 >week4  4)substring inequality  
-To add   
-Data Structures
->week5 and 6
