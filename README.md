@@ -7,28 +7,6 @@ please note that solutions to different questions are provided in python languag
 alt="https://www.coursera.org/specializations/data-structures-algorithms" width="250" height="250" border="10" align="center"/></a>
 </p>
 
-## [Data Structures, course 2](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202)  
-This course content can be found [here](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) on coursera
->### Week 1: Basic data structures
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week1_basic_data_structures)   
-
-
->### Week 2: Amortized analysis
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week2%20amortized%20analysis)  
-
-
->### Week 3: Priority queues and Disjoint sets
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week3%20assignment%202_priority_queues_and_disjoint_sets)  
-
-
->### Week 4: Hash tables
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week4%20assignment%203_hash_tables)  
-
-
->### Week 5 and Week 6: Binary Search trees
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week5%20%26%206%20assignment%204%20_binary_search_trees)  
-
-
 ## [Algorithmic Toolbox, course 1](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201)  
 This course content can be found [here](https://www.coursera.org/learn/algorithmic-toolbox/) on coursera
 >### Week 1: Programming challenges
@@ -52,6 +30,29 @@ This course content can be found [here](https://www.coursera.org/learn/algorithm
 
 >### Week 6: Dynamic programming 2
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week6_dynamic_programming2)  
+
+
+## [Data Structures, course 2](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202)  
+This course content can be found [here](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) on coursera
+>### Week 1: Basic data structures
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week1_basic_data_structures)   
+
+
+>### Week 2: Amortized analysis
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week2%20amortized%20analysis)  
+
+
+>### Week 3: Priority queues and Disjoint sets
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week3%20assignment%202_priority_queues_and_disjoint_sets)  
+
+
+>### Week 4: Hash tables
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week4%20assignment%203_hash_tables)  
+
+
+>### Week 5 and Week 6: Binary Search trees
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week5%20%26%206%20assignment%204%20_binary_search_trees)  
+
 
 
 ## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)  
