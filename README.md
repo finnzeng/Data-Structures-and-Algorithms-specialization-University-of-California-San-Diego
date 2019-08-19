@@ -47,8 +47,10 @@ thanks for the studynotes [akueisara](https://github.com/akueisara/algograph)
 
 Todo  
 Data structures   
->week1   5)max_sliding_window  
->week4  4)substring inequality  
+>week1   
+* 5)max_sliding_window  
+>week4  
+* 4)substring inequality  
 
 ALgorithmic toolbox  
 >week2 
