@@ -7,6 +7,31 @@ please note that solutions to different questions are provided in python languag
 alt="https://www.coursera.org/specializations/data-structures-algorithms" width="250" height="250" border="10" align="center"/></a>
 </p>
 
+## [Algorithmic Toolbox, course 1](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201)  
+This course content can be found [here](https://www.coursera.org/learn/algorithmic-toolbox/) on coursera
+>### Week 1: Programming challenges
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week1_programming_challenges)   
+
+
+>### Week 2: Algorithmic_warmup
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week2_algorithmic_warmup)  
+
+
+>### Week 3: Greedy algorithms
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week3_greedy_algorithms)  
+
+
+>### Week 4: Divide and conquer
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week4_divide_and_conquer)  
+
+
+>### Week 5: Dynamic programming 1
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week5_dynamic_programming1)  
+
+>### Week 6: Dynamic programming 2
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week6_dynamic_programming2)  
+
+
 ## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)  
 This course content can be found [here](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms) on coursera
 >### Week 1: Decomposition of Graphs 1
