@@ -49,3 +49,6 @@ Todo
 Data structures   
 >week1   5)max_sliding_window  
 >week4  4)substring inequality  
+ALgorithmic toolbox
+>week2 
+* 2-7: Last Digit of the Sum of Fibonacci Numbers Again
