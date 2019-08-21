@@ -31,6 +31,8 @@ This course content can be found [here](https://www.coursera.org/learn/algorithm
 >### Week 6: Dynamic programming 2
 >>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week6_dynamic_programming2)  
 
+>notes about [dynamic programming](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/Algorithmic%20toolbox%20course%201/dynprog.pdf)  
+and the [book](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/Algorithmic%20toolbox%20course%201/Alexander%20S.%20Kulikov%2C%20Pavel%20Pevzner%20-%20Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving%20(2018%2C%20Leanpub).pdf) from instructors
 
 ## [Data Structures, course 2](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202)  
 This course content can be found [here](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) on coursera
