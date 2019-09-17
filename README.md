@@ -105,3 +105,7 @@ Data structures
 ALgorithmic toolbox  
 >week2 
 * 2-7: Last Digit of the Sum of Fibonacci Numbers Again
+
+graph algorithms
+>week 1
+.ipynb files are deleted, re-upload them
